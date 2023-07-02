@@ -15,6 +15,17 @@ I have had two goals for several years:
  1. learn to program;
  2. to speak English fluently.
 I work hard to achieve my goals. 
+## Code Example
+===
+```
+<!DOCTYPE html>
+<head>
+   <script>
+      alert ('Hello, World');
+   </script>
+</head>
+```
+
 ## Skills
 ===
 - Intruder Alarms
