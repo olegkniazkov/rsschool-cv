@@ -13,6 +13,7 @@ So that I have good hard skills, because I worked with hardware a lot and I deve
 I have had two goals for several years:
  1. learn to program;
  2. to speak English fluently.
+
 I work hard to achieve my goals.
 
 ## Code Example
